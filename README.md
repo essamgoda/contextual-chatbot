@@ -1,5 +1,5 @@
 # contextual-chatbot
-use Jupyter notebook to rain model 
+use Jupyter notebook to train model 
 and use ``chatbot-api.py`` it simple api based on flask 
 
 run the server using :
