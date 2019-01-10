@@ -1,9 +1,9 @@
 # contextual-chatbot
 use Jupyter notebook to rain model 
-and use 'chatbot-api.py' it simple api based on flask 
+and use ``chatbot-api.py`` it simple api based on flask 
 
 run the server using :
--python3 chatbot-api.py
+>> ```python3 chatbot-api.py```
 
 
 then call api 
